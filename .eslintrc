@@ -8,7 +8,7 @@
   "rules": {
     "semi": "off",
     "arrow-parens": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
   },
   "extends": ["eslint:recommended", "google"]
 }
